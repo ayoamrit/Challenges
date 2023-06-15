@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b4353a1-7e9f-4f81-8519-32fc85269d36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/DigitalRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+    <list default="true" id="6b4353a1-7e9f-4f81-8519-32fc85269d36" name="Changes" comment="DigitalRoot Challenge">
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/DoubleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/HighLow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/SevenBoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/SquarePatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/DigitalRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/DigitalRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686841710372</updated>
     </task>
+    <task id="LOCAL-00001" summary="DigitalRoot Challenge">
+      <created>1686844219986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686844219986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DigitalRoot Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="DigitalRoot Challenge" />
   </component>
 </project>

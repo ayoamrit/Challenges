@@ -1,4 +1,4 @@
-package challenges;
+package easy;
 
 public class DigitalRoot {
 
